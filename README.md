@@ -3,6 +3,9 @@
 ## 项目概述
 本项目是一个基于机器学习的信贷评分卡系统，用于评估借款人的信用风险。系统使用了多种机器学习模型，包括逻辑回归、XGBoost、LightGBM和CatBoost，通过分析借款人的各种特征来预测违约风险。
 
+## 数据来源
+https://github.com/645187919/financial_score_card/blob/master/A_score_card/application.csv
+
 ## 数据集信息
 - 样本数量：39,785条记录
 - 特征数量：25个
